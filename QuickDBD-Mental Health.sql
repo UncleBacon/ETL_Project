@@ -2,6 +2,9 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/mDkV6c
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+DROP TABLE IF EXISTS Human_Development_Index;
+DROP TABLE IF EXISTS Economic;
+DROP TABLE IF EXISTS Suicide;
 
 CREATE TABLE "Human_Development_Index" (
     "Country" varchar   NOT NULL,

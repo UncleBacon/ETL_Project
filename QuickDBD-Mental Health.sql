@@ -2,6 +2,8 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/mDkV6c
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+-- Database name ETL_db
+
 DROP TABLE IF EXISTS Human_Development_Index;
 DROP TABLE IF EXISTS Economic;
 DROP TABLE IF EXISTS Suicide;

@@ -30,8 +30,8 @@ CREATE TABLE "Economic" (
 CREATE TABLE "Suicide" (
     "Country" varchar   NOT NULL,
     "Year" int   NOT NULL,
-    "Sex" varchar   NOT NULL,
-    "Crude_Suicide_Rate" float   NOT NULL,
+    "Suicide_Rate_Male" float   NOT NULL,
+    "Suicide_Rate_Female" float   NOT NULL,
     CONSTRAINT "pk_Suicide" PRIMARY KEY (
         "Country","Year"
      )

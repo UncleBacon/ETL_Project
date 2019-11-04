@@ -2,7 +2,7 @@
 
 1. - Create a `Postgres` Database with the name `ETL_db`
 2. - Update the `config.py` file in the path `\Jupyter Notebooks\config.py`  with your connection data to your `Postgres database`
-3. - Run only the `A. RUN_ME.ipynb`in the path `\Jupyter Notebooks\A. RUN_ME.ipynb`
+3. - Run only the `RUN_ME.ipynb`in the path `\Jupyter Notebooks\A. RUN_ME.ipynb`
 
 - Notes:
   - The code drop the tables in the database ETL_db if existed and upload all the information again

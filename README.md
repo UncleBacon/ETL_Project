@@ -1,4 +1,4 @@
-# Necessary Stept to Run all the Project
+# Necessary Steps to Run all the Project
 
 1. - Create a `Postgres` Database with the name `ETL_db`
 2. - Update the `config.py` file in the path `\Jupyter Notebooks\config.py`  with your connection data to your `Postgres database`
@@ -13,7 +13,7 @@
 
 ## Suicide rate estimates, crude - Estimates by country
 
-- Souce:    WHO
+- Source:    WHO
 - Link:     http://apps.who.int/gho/data/node.main.MHSUICIDE?lang=en
 - Files:    
             - suicide.json
@@ -21,7 +21,7 @@
 
 ## Economic Data 
 
-- Souce:    World Bank
+- Source:    World Bank
 - Link:     https://databank.worldbank.org/source/jobs
 - Files:   
             - economic.csv
@@ -30,7 +30,7 @@
 
 ## Human Development Index (HDI)
 
-- Souce:    United Nations Development Program
+- Source:    United Nations Development Program
 - Link:     http://hdr.undp.org/en/indicators/137506#
 
 
@@ -41,7 +41,7 @@
 ### -  `Images`
 - `Final Query Result` - Contains the image of the query and resulting table of the ETL Process
 - `Schema` - Contains the image of the schema used to create the tables in the database
-### `Jupiter Notebooks` 
+### - `Jupiter Notebooks` 
 - `1_RUN_ME.ipynb` - Calls all the other notebooks and manages the ETL Process Completely
 - `2_create_tables.ipynb` - Contains the SQL code to create the schema in the database
 - `3_human_dev_ind` - Extracts the data from de `Resources/human_dev_ind.csv` file and upload it to the ETL_db Database
@@ -49,4 +49,9 @@
 - `5_suicide.ipynb` - Extracts the data from de `Resources/suicide.csv` file and upload it to the ETL_db Database
 - `6_etl_result.ipynb` - Runs the final SQL query to the resulting database
 - `config.py` - Contains the connection data to the Postgres database
-### `Resources`
+### - `Resources`
+- `countries_problems_equivalence.csv` - Contains the necessary information to unify  the names on the countries
+- `countries.csv` - Contains the information to filter only countries from the csv files
+- `economic.csv` - Contains data from economic variables by country and year
+- `human_dev_ind.csv` - Contains the human development by country and year
+- `suicide.csv` - Contains the suicide rates for men and women by country and year

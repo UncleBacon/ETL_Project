@@ -40,7 +40,7 @@
 -  `Images`
         - `Final Query Result` - Contains the image of the query and resulting table of the ETL Process
         - `Schema` - Contains the image of the schema used to create the tables in the database
-- `Jupiter Notebooks` 
+# - `Jupiter Notebooks` 
 - `1_RUN_ME.ipynb` - Calls all the other notebooks and manages the ETL Process Completely
 - `2_create_tables.ipynb` - Contains the SQL code to create the schema in the database
 - `3_human_dev_ind` - Extracts the data from de `Resources/human_dev_ind.csv` file and upload it to the ETL_db Database

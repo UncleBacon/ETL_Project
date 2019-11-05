@@ -9,6 +9,8 @@
   - No other notebook or code needs to be run
 
 
+
+
 # Sources of Data
 
 ## Suicide rate estimates, crude - Estimates by country
@@ -34,6 +36,9 @@
 - Link:     http://hdr.undp.org/en/indicators/137506#
 
 
+
+
+
 # File Description
 
 #### - `ETL Project Proposal.docx` - Contains the text for the project proposal
@@ -56,11 +61,14 @@
 - `human_dev_ind.csv` - Contains the human development by country and year
 - `suicide.csv` - Contains the suicide rates for men and women by country and year
 
+
+
+
 # Metadata
 
-- Variable SQL Name:  
+#### - Variable SQL Name:  
 `Suicide_Rate_Female`   
-- Full Name:           
+#### - Full Name:           
 Suicide mortality rate (per 100 000 population)
-- Definition:           
+#### - Definition:           
 Number of suicide deaths in a year, divided by the population and multiplied by 100 000.  

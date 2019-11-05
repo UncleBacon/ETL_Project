@@ -36,12 +36,12 @@
 
 # File Description
 
-### - `ETL Project Proposal.docx` - Contains the text for the project proposal
-### - `ETL_db Schema` - Contains the SQL code to create the database schema
-### -  `Images`
+#### - `ETL Project Proposal.docx` - Contains the text for the project proposal
+#### - `ETL_db Schema` - Contains the SQL code to create the database schema
+#### -  `Images`
 - `Final Query Result` - Contains the image of the query and resulting table of the ETL Process
 - `Schema` - Contains the image of the schema used to create the tables in the database
-### - `Jupiter Notebooks` 
+#### - `Jupiter Notebooks` 
 - `1_RUN_ME.ipynb` - Calls all the other notebooks and manages the ETL Process Completely
 - `2_create_tables.ipynb` - Contains the SQL code to create the schema in the database
 - `3_human_dev_ind` - Extracts the data from de `Resources/human_dev_ind.csv` file and upload it to the ETL_db Database
@@ -49,7 +49,7 @@
 - `5_suicide.ipynb` - Extracts the data from de `Resources/suicide.csv` file and upload it to the ETL_db Database
 - `6_etl_result.ipynb` - Runs the final SQL query to the resulting database
 - `config.py` - Contains the connection data to the Postgres database
-### - `Resources`
+#### - `Resources`
 - `countries_problems_equivalence.csv` - Contains the necessary information to unify  the names on the countries
 - `countries.csv` - Contains the information to filter only countries from the csv files
 - `economic.csv` - Contains data from economic variables by country and year

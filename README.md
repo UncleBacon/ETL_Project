@@ -41,10 +41,10 @@
         - `Final Query Result` - Contains the image of the query and resulting table of the ETL Process
         - `Schema` - Contains the image of the schema used to create the tables in the database
 - `Jupiter Notebooks` 
-        - `1_RUN_ME.ipynb` - Calls all the other notebooks and manages the ETL Process Completely
-        - `2_create_tables.ipynb` - Contains the SQL code to create the schema in the database
-        - `3_human_dev_ind` - Extracts the data from de `Resources/human_dev_ind.csv` file and upload it to the ETL_db Database
-        - `4_economic` - Extracts the data from de `Resources/economic.csv` file and upload it to the ETL_db Database
-        - `5_suicide.ipynb` - Extracts the data from de `Resources/suicide.csv` file and upload it to the ETL_db Database
-        - `6_etl_result.ipynb` - Runs the final SQL query to the resulting database
-        - `config.py` - Contains the connection data to the Postgres database
+- `1_RUN_ME.ipynb` - Calls all the other notebooks and manages the ETL Process Completely
+- `2_create_tables.ipynb` - Contains the SQL code to create the schema in the database
+- `3_human_dev_ind` - Extracts the data from de `Resources/human_dev_ind.csv` file and upload it to the ETL_db Database
+- `4_economic` - Extracts the data from de `Resources/economic.csv` file and upload it to the ETL_db Database
+- `5_suicide.ipynb` - Extracts the data from de `Resources/suicide.csv` file and upload it to the ETL_db Database
+- `6_etl_result.ipynb` - Runs the final SQL query to the resulting database
+- `config.py` - Contains the connection data to the Postgres database

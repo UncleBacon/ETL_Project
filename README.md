@@ -1,8 +1,14 @@
 # Necessary Steps to Run all the Project
 
-1. - Create a `Postgres` Database with the name `ETL_db`
-2. - Update the `config.py` file in the path `\Jupyter Notebooks\config.py`  with your connection data to your `Postgres database`
-3. - Run only the `RUN_ME.ipynb`in the path `\Jupyter Notebooks\RUN_ME.ipynb`
+1. - Install or have installed this libraries in your Git Enviroment:
+        -   psycopg2
+        -   sqlalchemy
+        -   pandas
+        -   numpy
+
+2. - Create a `Postgres` Database with the name `ETL_db`
+3. - Update the `config.py` file in the path `\Jupyter Notebooks\config.py`  with your connection data to your `Postgres database`
+4. - Run only the `RUN_ME.ipynb`in the path `\Jupyter Notebooks\RUN_ME.ipynb`
 
 - Notes:
   - The code drop the tables in the database ETL_db if existed and upload all the information again
@@ -41,7 +47,7 @@
 
 # File Description
 
-#### - `ETL Project Proposal.docx` - Contains the text for the project proposal
+#### - `ETL Project Proposal.pdf` - Contains the text for the project proposal
 #### - `ETL_db Schema` - Contains the SQL code to create the database schema
 #### -  `Images`
 - `Final Query Result` - Contains the image of the query and resulting table of the ETL Process
@@ -66,9 +72,21 @@
 
 # Metadata
 
-#### - Variable SQL Name:  
-`Suicide_Rate_Female`   
-#### - Full Name:           
-Suicide mortality rate (per 100 000 population)
-#### - Definition:           
-Number of suicide deaths in a year, divided by the population and multiplied by 100 000.  
+#### - Variable SQL Name:  Suicide_Rate_Female and Suicide_Rate_Male
+- Full Name:    Suicide mortality rate (per 100 000 population)
+- Definition:   Number of suicide deaths in a year, divided by the population and multiplied by 100 000.  
+
+#### - Variable SQL Name:  GDP Growth   
+- Full Name:    GDP growth (annual %)
+- Definition:   Annual percentage growth rate of GDP at market prices based on constant local currency.  
+
+#### - Variable SQL Name:  Inflation   
+- Full Name:    Inflation, consumer prices (annual %)
+- Definition:   Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services.
+
+#### - Variable SQL Name:  Human Development Index   
+- Full Name:    Human Development Index (HDI)
+- Definition:   A composite index measuring average achievement in three basic dimensions of human development, 
+    - a long and healthy life, 
+    - knowledge and 
+    - a decent standard of living. 

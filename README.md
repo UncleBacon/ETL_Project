@@ -50,7 +50,7 @@
 #### - `ETL Project Proposal.pdf` - Contains the text for the project proposal
 #### - `ETL_db Schema` - Contains the SQL code to create the database schema
 #### -  `Images`
-- `Final Query Result` - Contains the image of the query and resulting table of the ETL Process
+- `Final Query Result` - Contains the images of the queries and resulting tables of the ETL Process
 - `Schema` - Contains the image of the schema used to create the tables in the database
 #### - `Jupiter Notebooks` 
 - `1_RUN_ME.ipynb` - Calls all the other notebooks and manages the ETL Process Completely

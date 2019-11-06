@@ -1,6 +1,6 @@
 # Necessary Steps to Run all the Project
 
-1. - Install or have installed this libraries in your Git Enviroment:
+1. - Install or have installed these libraries in your Git Enviroment:
         -   psycopg2
         -   sqlalchemy
         -   sqlalchemy_utils
@@ -11,7 +11,7 @@
 4. - Run only the `\Jupyter Notebooks\RUN_ME.ipynb` file
 
 - Notes:
-  - The code drop the tables in the database ETL_db if existed and upload all the information again
+  - The code drops the tables in the database ETL_db if existed and uploads all the information again
   - No other notebook or code needs to be run
 
 

@@ -47,7 +47,7 @@
 
 # File Description
 
-#### - Group_5_ETL_Project_Proposal.pdf` - Contains the text for the project proposal
+#### - `Group_5_ETL_Project_Proposal.pdf` - Contains the text for the project proposal
 #### - `Group_5_ETL_Project_Final_Report.pdf` - Contains the text for the project Final Report
 #### - `ETL_db Schema` - Contains the SQL code to create the database schema
 #### -  `Images`

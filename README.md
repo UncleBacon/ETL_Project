@@ -51,13 +51,13 @@
 #### - `Group_5_ETL_Project_Final_Report.pdf` - Contains the text for the project Final Report
 #### - `ETL_db Schema` - Contains the SQL code to create the database schema
 #### -  `Images`
-- `Final Query Result 1` - Contains the images of the queries and resulting tables of the ETL Process
-- `Final Query Result 2` - Top 10 Suicide Rate by Country for Males in 2016
-- `Final Query Result 3` - Top 10 Suicide Rate by Country for Females in 2016
-- `Final Query Result 4` - Suicide Rate for Males among Countries with the lowest GDP growth in 2016
-- `Final Query Result 5` - Suicide Rate Among Countries with the lowest HDI in 2016
-- `Final Query Result 6` - Average Suicide Rate for Males and Females group by year
-- `Final Query Result 7` - Suicide Rate among Countries with the hightest Inflation in 2016
+- `Final Query Result 0` - Contains the images of the queries and resulting tables of the ETL Process
+- `Final Query Result 1` - Top 10 Suicide Rate by Country for Males in 2016
+- `Final Query Result 2` - Top 10 Suicide Rate by Country for Females in 2016
+- `Final Query Result 3` - Suicide Rate for Males among Countries with the lowest GDP growth in 2016
+- `Final Query Result 4` - Suicide Rate Among Countries with the lowest HDI in 2016
+- `Final Query Result 5` - Average Suicide Rate for Males and Females group by year
+- `Final Query Result 6` - Suicide Rate among Countries with the hightest Inflation in 2016
 - `Schema` - Contains the image of the schema used to create the tables in the database
 #### - `Jupiter Notebooks` 
 - `1_RUN_ME.ipynb` - Calls all the other notebooks and manages the ETL Process Completely

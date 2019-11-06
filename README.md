@@ -3,12 +3,12 @@
 1. - Install or have installed this libraries in your Git Enviroment:
         -   psycopg2
         -   sqlalchemy
+        -   sqlalchemy_utils
         -   pandas
         -   numpy
 
-2. - Create a `Postgres` Database with the name `ETL_db`
-3. - Update the `\Jupyter Notebooks\config.py` file with your connection data to your `Postgres` database
-4. - Run only the `\Jupyter Notebooks\RUN_ME.ipynb` file
+2. - Update the `\Jupyter Notebooks\config.py` file with your connection data to your `Postgres` database
+3. - Run only the `\Jupyter Notebooks\RUN_ME.ipynb` file
 
 - Notes:
   - The code drop the tables in the database ETL_db if existed and upload all the information again
@@ -50,7 +50,7 @@
 #### - `ETL Project Proposal.pdf` - Contains the text for the project proposal
 #### - `ETL_db Schema` - Contains the SQL code to create the database schema
 #### -  `Images`
-- `Final Query Result` - Contains the image of the query and resulting table of the ETL Process
+- `Final Query Result` - Contains the images of the queries and resulting tables of the ETL Process
 - `Schema` - Contains the image of the schema used to create the tables in the database
 #### - `Jupiter Notebooks` 
 - `1_RUN_ME.ipynb` - Calls all the other notebooks and manages the ETL Process Completely

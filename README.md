@@ -6,9 +6,8 @@
         -   sqlalchemy_utils
         -   pandas
         -   numpy
-2. - Run the Postgres Server
-3. - Update the `\Jupyter Notebooks\config.py` file with your connection data to your `Postgres` database
-4. - Run only the `\Jupyter Notebooks\RUN_ME.ipynb` file
+2. - Update the `\Jupyter Notebooks\config.py` file with your connection data to your `Postgres` database
+3. - Run only the `\Jupyter Notebooks\RUN_ME.ipynb` file
 
 - Notes:
   - The code drops the tables in the database ETL_db if existed and uploads all the information again

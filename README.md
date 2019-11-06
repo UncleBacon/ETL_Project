@@ -7,7 +7,6 @@
         -   pandas
         -   numpy
 2. - Run the Postgres Server
-
 3. - Update the `\Jupyter Notebooks\config.py` file with your connection data to your `Postgres` database
 4. - Run only the `\Jupyter Notebooks\RUN_ME.ipynb` file
 

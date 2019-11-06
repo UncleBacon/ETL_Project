@@ -48,6 +48,7 @@
 # File Description
 
 #### - `ETL Project Proposal.pdf` - Contains the text for the project proposal
+#### - `Group_5_ETL_Project_Final_Report.pdf` - Contains the text for the project Final Report
 #### - `ETL_db Schema` - Contains the SQL code to create the database schema
 #### -  `Images`
 - `Final Query Result` - Contains the images of the queries and resulting tables of the ETL Process

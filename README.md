@@ -43,8 +43,8 @@
 ## ERD Diagram
 ![ERD Diagram](https://github.com/UncleBacon/ETL_Project/blob/master/Images/Schema.png)
 
-<h2>The following countries are included in this dataset: </h2> 
-<tb>   </tb>
+<h2>Countries included in this analysis can be found at the link below </h2> 
+https://github.com/UncleBacon/ETL_Project/blob/master/Resources/Countries.md
 
 
 

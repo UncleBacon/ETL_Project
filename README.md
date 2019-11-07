@@ -42,6 +42,9 @@
 
 
 
+## ERD Diagram
+![ERD Diagram] (https://github.com/UncleBacon/ETL_Project/blob/master/Images/Schema.png)
+
 
 
 # File Description

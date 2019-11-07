@@ -40,10 +40,12 @@
 - Source:    United Nations Development Program
 - Link:     http://hdr.undp.org/en/indicators/137506#
 
-<h4>The following countries were dropped from this dataset: </h4> 
-
 ## ERD Diagram
 ![ERD Diagram](https://github.com/UncleBacon/ETL_Project/blob/master/Images/Schema.png)
+
+<h2>The following countries are included in this dataset: </h2> 
+<tb>   </tb>
+
 
 
 

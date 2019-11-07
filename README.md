@@ -43,8 +43,8 @@
 ## ERD Diagram
 ![ERD Diagram](https://github.com/UncleBacon/ETL_Project/blob/master/Images/Schema.png)
 
-<h2>Countries included in this analysis can be found at the link below </h2> 
-<a href = "https://github.com/UncleBacon/ETL_Project/blob/master/Resources/Countries.md">Countries</a>
+<h2>Countries included in this analysis can be found 
+<a href = "https://github.com/UncleBacon/ETL_Project/blob/master/Resources/Countries.md">here</a>. </h2> 
 
 
 
